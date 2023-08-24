@@ -21,12 +21,6 @@ Livox ROS Driver 2 is the 2nd-generation driver package used to connect LiDAR pr
 For ROS Melodic installation, please refer to:
 [ROS Melodic installation instructions](https://wiki.ros.org/melodic/Installation)
 
-For ROS Noetic installation, please refer to:
-[ROS Noetic installation instructions](https://wiki.ros.org/noetic/Installation)
-
-For ROS2 Foxy installation, please refer to:
-[ROS Foxy installation instructions](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
-
 For ROS2 Humble installation, please refer to:
 [ROS Humble installation instructions](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html)
 
@@ -58,11 +52,7 @@ source /opt/ros/noetic/setup.sh
 ./build.sh ROS1
 ```
 
-#### For ROS2 Foxy:
-```shell
-source /opt/ros/foxy/setup.sh
-./build.sh ROS2
-```
+
 
 #### For ROS2 Humble:
 ```shell
